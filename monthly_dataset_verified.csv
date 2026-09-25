@@ -1,0 +1,7 @@
+month_label,incidents,deaths,injuries,source_type,date_obj,death_rate,injury_rate
+Jan 2026,151,8,1233,Calculated (Q1 total minus Feb & Mar),2026-01-01,5.298013245033113,8.165562913907285
+Feb 2026,346,10,1933,"Directly reported (HRSS via Daily Star, 5 Mar 2026)",2026-02-01,2.8901734104046244,5.586705202312139
+Mar 2026,113,18,912,"Directly reported (HRSS primary report, 3 Apr 2026)",2026-03-01,15.929203539823009,8.070796460176991
+Apr 2026,98,6,533,"Directly reported (HRSS monthly report, 5 May 2026)",2026-04-01,6.122448979591836,5.438775510204081
+May 2026,64,5,289,"Directly reported (HRSS via TBS, 5 Jun 2026)",2026-05-01,7.8125,4.515625
+Jun 2026,58,9,346,"Directly reported (HRSS via TBS, 2 Jul 2026)",2026-06-01,15.517241379310345,5.9655172413793105
